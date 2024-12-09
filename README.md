@@ -5,12 +5,18 @@ Features
 Dynamic Resizing: Adjusts to various container dimensions and screen orientations (vertical or horizontal).
 Interactive Visuals: Displays critical dimensions like screen width, height, depth, and floor distance dynamically.
 Customizable Configurations: Supports different installation types (niche and flat) and renders niche dimensions, receptacle box positions, and screen gaps accordingly.
+
 Scalable: Uses a scaling factor to ensure proper display across different screen sizes.
 Stylish UI: Leveraging Tailwind CSS for clean and modern styling.
 Technologies Used
+
 React: For dynamic and component-based rendering.
+
 Vite: For fast development and build processes.
+
 Tailwind CSS: For utility-first styling.
+
 PostCSS: For CSS processing.
+
 Usage
 This project is ideal for illustrating installation guides, showcasing technical specifications, or creating visual tools for layout planning.
